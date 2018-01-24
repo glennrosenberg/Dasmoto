@@ -35,6 +35,8 @@ span.price {
 
 nav a {
   padding: 12px;
+  margin-left: 20px;
+  border: 3px outset lightgrey;
   color: white;
   background-color: black;
   font-weight: bold;
