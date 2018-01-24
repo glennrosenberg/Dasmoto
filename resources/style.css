@@ -42,3 +42,6 @@ nav a {
   font-weight: bold;
   text-decoration: none;
 }
+nav a:hover {
+  border: 3px inset red;
+}
